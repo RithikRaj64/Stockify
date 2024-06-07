@@ -16,19 +16,19 @@ st.header("Features")
 st.markdown('''
 - **View Stocks:**
 
-Easily monitor your inventory in real-time with our intuitive view stocks page. Get insights into stock levels, locations, and more at a glance.
+    Easily monitor your inventory in real-time with our intuitive view stocks page. Get insights into stock levels, locations, and more at a glance.
 
 - **Add Stocks:** 
             
-Seamlessly add new items to your inventory with our add stocks page. Streamline the process and keep your inventory up-to-date with just a few clicks.
+    Seamlessly add new items to your inventory with our add stocks page. Streamline the process and keep your inventory up-to-date with just a few clicks.
 
 - **Take Stocks:** 
             
-Keep track of stock movements effortlessly with our take stocks page. Update stock quantities, locations, and statuses with ease.
+    Keep track of stock movements effortlessly with our take stocks page. Update stock quantities, locations, and statuses with ease.
 
 - **Add New Item:** 
             
-Introduce new items to your inventory effortlessly using our add new item page. Simply input the necessary details, and your new item is ready to be tracked.
+    Introduce new items to your inventory effortlessly using our add new item page. Simply input the necessary details, and your new item is ready to be tracked.
 
 - **View Taken Register:** 
             
